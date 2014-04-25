@@ -1,0 +1,29 @@
+{
+  "name": "kue-send",
+  "version": "0.0.1",
+  "description": "Monkey patches kue with a generic messaging capability",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/xogeny/kue-send.git"
+  },
+  "keywords": [
+    "kue"
+  ],
+  "author": "Michael M. Tiller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xogeny/kue-send/issues"
+  },
+  "homepage": "https://github.com/xogeny/kue-send",
+  "dependencies": {
+    "kue": "^0.7.5",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
