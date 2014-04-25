@@ -1,7 +1,7 @@
 {
   "name": "kue-send",
-  "version": "0.0.1",
-  "description": "Monkey patches kue with a generic messaging capability",
+  "version": "0.1.0",
+  "description": "Enhances kue with a generic messaging capability and promise support",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
